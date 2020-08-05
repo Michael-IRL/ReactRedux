@@ -1,7 +1,7 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
 
-export const Home = () => {
+const Home = () => {
     return (
         <div className='jumbotron'>
             <h1>Pluralsight Administration</h1>
@@ -12,3 +12,5 @@ export const Home = () => {
         </div>
     )
 }
+
+export default Home;
