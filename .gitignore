@@ -38,4 +38,5 @@ build
 # json-server db
 db.json
 
+#ide settings
 .vscode
